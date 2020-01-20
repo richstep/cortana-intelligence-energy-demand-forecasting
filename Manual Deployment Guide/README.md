@@ -6,7 +6,7 @@
 - [Architecture](#architecture)
 - [Setup Steps](#setup-steps)
   - [Batch Path Setup Steps](#batch-path-setup-steps)
-  - [Real-time Path Setup Steps](#real-time-path-setup-steps)
+  - **** Use this **** [Real-time Path Setup Steps](#real-time-path-setup-steps)
 - [Validation and Results](#validation-and-results)
 
 ## Abstract
